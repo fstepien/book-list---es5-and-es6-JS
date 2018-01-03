@@ -7,7 +7,7 @@ Book List
   2. ES6 - app.es6.js
   3. ES6 - app.es6.ls.js local storage feature
 
-From:
+##From:
 
 ```JavaScript
 function Book(title, author, isbn) {
@@ -23,7 +23,7 @@ UI.prototype.deleteBook = function(target) {
 UI.prototype.clearFields = function() {
 }
 ```
-To:
+##To:
 
 ```JavaScript
 class Book {
